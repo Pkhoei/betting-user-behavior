@@ -46,11 +46,7 @@ To analyze betting behavior, explore user segmentation, and prepare data for chu
 
 ### 2. 📦 Boxplot of Stake, Gain, and GGR
 ![Boxplot of Stake, Gain, and GGR](notebooks/plots/boxplot_stake_gain_ggr.png)
- HEAD
-=======
 
-
- 58f9023 (Update README to include boxplot)
 
 ---
 
