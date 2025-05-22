@@ -28,6 +28,34 @@ To analyze betting behavior, explore user segmentation, and prepare data for chu
 - Data source: [Kaggle – Sports Betting Profiling Dataset](https://www.kaggle.com/datasets/emiliencoicaud/sports-betting-profiling-dataset)
 - The CSV file is large and excluded from this repository.
 - ![Bets per Sport](notebooks/plots/bets_per_sport.png)
+# 🧠 User Behavior Analysis in Sports Betting Platform
+
+## 📌 Notes
+
+- **Data source**: [Kaggle – Sports Betting Profiling Dataset](https://www.kaggle.com/datasets/emiliocindolo/sports-betting-profiling-dataset)
+- The CSV file is large and excluded from this repository.
+
+---
+
+## 📊 Visualizations
+
+### 1. 📌 Number of Bets per Sport
+![Bets per Sport](notebooks/plots/bets_per_sport.png)
+
+---
+
+### 2. 📦 Boxplot of Stake, Gain, and GGR
+> (to be added soon — coming from `boxplot_stake_gain_ggr.png`)
+
+---
+
+### 3. 🧪 Scatter Plot: Stake vs Gain
+![Scatter Plot](notebooks/plots/stake_vs_gain.png)
+
+---
+
+## 📂 Summary Stats for High Stake Bets
+Output saved in:
 
 
 
