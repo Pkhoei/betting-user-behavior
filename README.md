@@ -27,7 +27,7 @@ To analyze betting behavior, explore user segmentation, and prepare data for chu
 
 - Data source: [Kaggle – Sports Betting Profiling Dataset](https://www.kaggle.com/datasets/emiliencoicaud/sports-betting-profiling-dataset)
 - The CSV file is large and excluded from this repository.
-- ![Bets per Sport](notebooks/plots/bets_per_sport.png)
+
 # 🧠 User Behavior Analysis in Sports Betting Platform
 
 ## 📌 Notes
