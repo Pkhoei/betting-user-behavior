@@ -29,6 +29,8 @@ To analyze betting behavior, explore user segmentation, and prepare data for chu
 - The CSV file is large and excluded from this repository.
 - ![Bets per Sport](notebooks/plots/bets_per_sport.png)
 
+![Bets per Sport](notebooks/plots/bets_per_sport.png)
+
 
 
 
